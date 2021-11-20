@@ -1,3 +1,7 @@
-Just another human who only knows html and css
+### About Me
+- Male
+- South Africa
+- [zlby.me](https://zlby.me)
 
-https://zlby.me/
+### Repos
+- [My Website](https://github.com/zlbyapi/personal)
